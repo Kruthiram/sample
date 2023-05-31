@@ -1,0 +1,8 @@
+p{
+ color: blue;
+}
+@media and (min-width: 600px) {
+   
+        background-color: rgb(30, 214, 238)
+   
+      }
